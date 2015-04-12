@@ -1,4 +1,4 @@
-# Cloud Agents
+# os-workloads Nova Plugin
 
 This is the source code for os-workloads, a prototype OpenStack Nova plugin to allow for inter-workload scaling request negotiations.
 
